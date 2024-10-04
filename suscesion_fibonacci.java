@@ -8,6 +8,7 @@ public class suscesion_fibonacci {
 		long numeroAnterior = 0;
 		long numeroSiguiente = 1;
 
+       
 		System.out.print("susecion de fibonacci para el numero: " + numeroMaximoSusecion);
 
 		for (int i = 1; i <= numeroMaximoSusecion; ++i) {
